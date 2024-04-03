@@ -1,7 +1,7 @@
 <h1>VPN Setup and Usage</h1>
 
 <h2>Description</h2>
-In this lab, we will learn what VPNs are and what they are used for. I'll show you how to download and use Proton VPN. VPN stands for Virtual Private Networks. VPNs can securely link two computers (or networks) together across an insecure network such as the internet, allowing them to send encapsulated and encrypted data to each other. There are two main use cases for VPN the first one is it's used when a person want to connect to resources at work from home. The second one is 
+In this lab, we will learn what VPNs are and what they are used for. I'll show you how to download and use Proton VPN. VPN stands for Virtual Private Networks. VPNs can securely link two computers (or networks) together across an insecure network such as the internet, allowing them to send encapsulated and encrypted data to each other. There are two main use cases for VPN the first one is it's used when a person want to connect to resources at work from home. The second one is to access content or resources available in another country.
 <br />
 
 <h2>Environments Used </h2>
@@ -11,11 +11,14 @@ In this lab, we will learn what VPNs are and what they are used for. I'll show y
 <h2>Checking Current IP Address:</h2>
 <p align="center">
 First thing we will do is go to our web browser and go to the following website: https://https://whatismyipaddress.com/  <br/>
-
+<p align="center">
+Open your Notepad application and take note of the IP address and location your computer is located at. <br/>
+<img src="https://imgur.com/fKGjvpI.png" height="80%" width="80%" alt=""/>
+<br/>
 <h2>Downloading and Using ProtonVPN:</h2>
 
 <p align="center">
- <br/>
+<br/>
 <img src="https://imgur.com/Dads5U8.png" height="80%" width="80%" alt=/>
 <br />
 <br />
