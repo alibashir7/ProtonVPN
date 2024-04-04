@@ -38,23 +38,21 @@ The first thing we will do is create a Windows 10 VM in Azure. Follow the follow
 <br />
 
 Next, we will open our VM using a remote desktop connection. Use the public IP address given by the VM to connect. Once the connection is established, make sure to select more choices and enter the username and password of the VM we created. When the security warning pops up, just click yes. Follow the same process I do in the images below and once your in the Windows 10 VM interface open edge and go the https://https://whatismyipaddress.com/ website. <br/>
-<img src=".png" height="80%" width="80%" alt=""/>
+<img src="https://imgur.com/9rEAN90.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
-<img src=".png" height="80%" width="80%" alt=""/>
+<img src="https://imgur.com/Ca0d78R.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
-<img src=".png" height="80%" width="80%" alt=""/>
+<img src="https://imgur.com/pnoOjlS.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
-<img src=".png" height="80%" width="80%" alt=""/>
+<img src="https://imgur.com/tOtk1l3.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
-<img src=".png" height="80%" width="80%" alt=""/>
-<br />
-<br />
+
 Take note of the IP address and location our VM is located in. <br/>
-<img src=".png" height="80%" width="80%" alt=""/>
+<img src="https://imgur.com/hTr9vqc.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
 
