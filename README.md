@@ -58,7 +58,7 @@ Take note of the IP address and location our VM is located in. <br/>
 <img src=".png" height="80%" width="80%" alt=""/>
 <br />
 <br />
-We will now proceed to go back to our actual computer interface and sign up for a free Proton VPN account. The reason we aren't doing it in the VM is because our VM is in another region, so the language would be different on the websites. So, to make it easier, we will sign up in our actual browser. <br/>
+We will now proceed to go back to our actual computer interface and sign up for a free Proton VPN account. The reason we aren't doing it in the VM is because our VM is in another region, so the language may be different depending on the reigion you have your VM set to. So, to make it easier, we will sign up in our actual browser. Go to the follwing website and follow the prompts below https://protonvpn.com/download-windows. You can use the following video to help you sign up if you don't understand how to do it https://youtu.be/otKaa2dANlM?si=M56AZqrJvF_nRMuk. Just make sure not to download the Proton VPN application on your browser were going to download it in the VM. <br/>
 <img src=".png" height="80%" width="80%" alt=""/>
 <br />
 <br />
