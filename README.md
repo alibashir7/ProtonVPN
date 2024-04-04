@@ -62,18 +62,19 @@ We will now proceed to go back to our actual computer interface and sign up for 
 <img src=".png" height="80%" width="80%" alt=""/>
 <br />
 <br />
-<img src=".png" height="80%" width="80%" alt=""/>
+<img src="https://imgur.com/BasdjWW.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
-<img src=".png" height="80%" width="80%" alt=""/>
+<img src="https://imgur.com/MIt5ZVd.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
-<img src=".png" height="80%" width="80%" alt=""/>
+<img src="https://imgur.com/H3AlcVC.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
-<img src=".png" height="80%" width="80%" alt=""/>
+<img src="https://imgur.com/A7SnscC.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
+Now that weve signed up for an account. <br/ b>
 <img src=".png" height="80%" width="80%" alt=""/>
 <br />
 <br />
