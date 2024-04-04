@@ -15,29 +15,28 @@ Open your Notepad application and take note of the IP address and location your 
 <img src="https://imgur.com/fKGjvpI.png" height="80%" width="80%" alt=""/>
 <br/>
   
-<h2>Downloading and Using ProtonVPN:</h2>
+<h2>Creating Windows 10 VM in Azure:</h2>
+
 The first thing we will do is create a Windows 10 VM in Azure. Follow the following images below and create an exact replica VM. Don't create a resource group; we will let the VM create its own resource group. If you don't have Europe available as a region, you can select another country; just make sure it has the same configurations as shown in the image. Don't forget to create a username and password for accessing the VM. Make sure to save it somewhere. When the deployment process is done, go to the resource. <br/>
-<img src=".png" height="80%" width="80%" alt=/>
+<img src="https://imgur.com/mPEQJJz.png" height="80%" width="80%" alt=/>
 <br />
 <br />
-<img src=".png" height="80%" width="80%" alt=/>
+<img src="https://imgur.com/JxWOZia.png" height="80%" width="80%" alt=/>
 <br />
 <br />
-<img src=".png" height="80%" width="80%" alt=/>
+<img src="https://imgur.com/hupoIBg.png" height="80%" width="80%" alt=/>
 <br />
 <br />
-<img src=".png" height="80%" width="80%" alt=/>
+<img src="https://imgur.com/ZUWR7qc.png" height="80%" width="80%" alt=/>
 <br />
 <br />
-<img src=".png" height="80%" width="80%" alt=/>
+<img src="https://imgur.com/yQZJgtl.png" height="80%" width="80%" alt=/>
 <br />
 <br />
-<img src=".png" height="80%" width="80%" alt=/>
+<img src="https://imgur.com/pdbHHGL.png" height="80%" width="80%" alt=/>
 <br />
 <br />
-<img src=".png" height="80%" width="80%" alt=/>
-<br />
-<br />
+
 Next, we will open our VM using a remote desktop connection. Use the public IP address given by the VM to connect. Once the connection is established, make sure to select more choices and enter the username and password of the VM we created. When the security warning pops up, just click yes. Follow the same process I do in the images below and once your in the Windows 10 VM interface open edge and go the https://https://whatismyipaddress.com/ website. <br/>
 <img src=".png" height="80%" width="80%" alt=""/>
 <br />
@@ -58,7 +57,10 @@ Take note of the IP address and location our VM is located in. <br/>
 <img src=".png" height="80%" width="80%" alt=""/>
 <br />
 <br />
-We will now proceed to go back to our actual computer interface and sign up for a free Proton VPN account. The reason we aren't doing it in the VM is because our VM is in another region, so the language may be different depending on the reigion you have your VM set to. So, to make it easier, we will sign up in our actual browser. Go to the follwing website and follow the prompts below https://protonvpn.com/download-windows. You can use the following video to help you sign up if you don't understand how to do it https://youtu.be/otKaa2dANlM?si=M56AZqrJvF_nRMuk. Just make sure not to download the Proton VPN application on your browser were going to download it in the VM. <br/>
+
+<h2>Downloading and Using ProtonVPN:</h2>
+
+We will now proceed to go back to our actual computer interface and sign up for a free Proton VPN account. The reason we aren't doing it in the VM is because our VM is in another region, so the language may be different depending on the reigion you have your VM set to. So, to make it easier, we will sign up in our actual browser. Go to the follwing website and follow the prompts below https://protonvpn.com/download-windows. Don't mind the black background on my PC I just have it in dark mode. You can also use the following video to help you sign up if you don't understand how to do it https://youtu.be/otKaa2dANlM?si=M56AZqrJvF_nRMuk. Just make sure not to download the Proton VPN application on your browser were going to download it in the VM. <br/>
 <img src=".png" height="80%" width="80%" alt=""/>
 <br />
 <br />
