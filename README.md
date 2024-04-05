@@ -58,7 +58,7 @@ Take note of the IP address and location our VM is located in. <br/>
 
 <h2>Downloading and Using ProtonVPN:</h2>
 
-We will now proceed to go back to our actual computer interface and sign up for a free Proton VPN account. The reason we aren't doing it in the VM is because our VM is in another region, so the language may be different depending on the reigion you have your VM set to. So, to make it easier, we will sign up in our actual browser. Go to the follwing website and follow the prompts below https://protonvpn.com/download-windows. Don't mind the black background on my PC I just have it in dark mode. You can also use the following video to help you sign up if you don't understand how to do it https://youtu.be/otKaa2dANlM?si=M56AZqrJvF_nRMuk. Just make sure not to download the Proton VPN application on your browser were going to download it in the VM. <br/>
+We will now proceed to go back to our actual computer interface and sign up for a free Proton VPN account. The reason we aren't doing it in the VM is because our VM is in another region, so the language may be different depending on the region you have your VM set to. So, to make it easier, we will sign up in our actual browser. Go to the following website and follow the prompts below: https://protonvpn.com/download-windows. Don't mind the black background on my PC; I just have it in dark mode. You can also use the following video to help you sign up for an account if you don't understand how to do it: https://youtu.be/otKaa2dANlM?si=M56AZqrJvF_nRMuk. Just make sure not to download the Proton VPN application on your browser if you are going to download it in the VM. <br/>
 <img src=".png" height="80%" width="80%" alt=""/>
 <br />
 <br />
@@ -74,10 +74,29 @@ We will now proceed to go back to our actual computer interface and sign up for 
 <img src="https://imgur.com/A7SnscC.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
-Now that weve signed up for an account. <br/ b>
-<img src=".png" height="80%" width="80%" alt=""/>
+Now that we have signed up for an account, I will go back to the VM and search for https://protonvpn.com/download in the Edge browser. Click on the download link in the middle of the page and follow the prompts to download the application in your browser. Once again, if you're confused about how to download the actual application, you can refer to the YouTube video I linked above. <br/ b>
+<img src="https://imgur.com/fWJ461q.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
+Finally, we will sign into the application with the username and password we created for our account. Once you go through the verification screen, you will be brought into the Proton VPN interface. We will click on Quick Connect in the top left corner of the application. Once connected, you will see that the location has changed to Poland and you have been assigned a new IP address. To confirm this change was made, we will go back to https://whatismyipaddress.com/. <br/ b>
+<img src="https://imgur.com/6GB9NkW.png" height="80%" width="80%" alt=""/>
+<br />
+<br />
+<img src="https://imgur.com/HtDJre2.png" height="80%" width="80%" alt=""/>
+<br />
+<br />
+<img src="https://imgur.com/zQAWtLy.png" height="80%" width="80%" alt=""/>
+<br />
+<br />
+<img src="https://imgur.com/dtGJYu3.png" height="80%" width="80%" alt=""/>
+<br />
+<br />
+
+As you can see, the location and IP address have indeed changed to the same one our VPN connected to and assigned us to. <br/ b>
+<img src="https://imgur.com/MWIRAeZ.png" height="80%" width="80%" alt=""/>
+<br />
+<br />
+
 <h2>Conclusion </h2>
 That concludes this lab. Now you should know what a VPN is and what it is used for. And you also have knowledge of how to use and navigate Proton VPN.  <br/>
 <br />
