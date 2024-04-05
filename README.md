@@ -105,7 +105,7 @@ Make note of how our IP address and location have changed through the different 
 <br />
 <br />
 <h2>Conclusion </h2>
-That concludes this lab. Now you should know what a VPN is and what it is used for. And you also have knowledge of how to use and navigate Proton VPN.  <br/>
+That concludes this lab. Now you should know what a VPN is and what it is used for. And you also have knowledge of how to use and navigate Proton VPN. As always don't forget to delete the resource group associated with this lab. <br/>
 <br />
 Thank You! <br/>
 </p>
