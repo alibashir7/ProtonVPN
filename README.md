@@ -90,9 +90,6 @@ Finally, we will sign into the application with the username and password we cre
 <br />
 <br />
 As you can see, the location and IP address have indeed changed to the same one our VPN connected to and assigned us to. 
-<img src="https://imgur.com/MWIRAeZ.png" height="80%" width="80%" alt=""/>
-<br />
-<br />
 To test out the change, we will go to Google.com and Netflix.com. You can see how the language and region have changed. Our VM is in Poland, even though it's actually in the UK. So whatever we do in the web browser at this point will route the traffic through Poland servers. 
 <img src="https://imgur.com/eZBxea2.png" height="80%" width="80%" alt=""/>
 <br />
