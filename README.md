@@ -58,48 +58,46 @@ Take note of the IP address and location our VM is located in. <br/>
 <h2>Downloading and Using ProtonVPN:</h2>
 
 We will now proceed to go back to our actual computer interface and sign up for a free Proton VPN account. The reason we aren't doing it in the VM is because our VM is in another region, so the language may be different depending on the region you have your VM set to. So, to make it easier, we will sign up in our actual browser. Go to the following website and follow the prompts below: https://protonvpn.com/download-windows. Don't mind the black background on my PC; I just have it in dark mode. You can also use the following video to help you sign up for an account if you don't understand how to do it: https://youtu.be/otKaa2dANlM?si=M56AZqrJvF_nRMuk. Just make sure not to download the Proton VPN application on your browser if you are going to download it in the VM. <br/>
-<img src=".png" height="80%" width="80%" alt=""/>
+
+<img src="https://github.com/alibashir7/ProtonVPN/assets/165006117/a88e8eb0-b776-45c4-ac34-faff063693a2" width="80%" alt=""/>
 <br />
 <br />
-<img src="https://imgur.com/BasdjWW.png" height="80%" width="80%" alt=""/>
+<img src="https://github.com/alibashir7/ProtonVPN/assets/165006117/5c026d0f-2b90-4d36-9d36-bd95ac6e3e37" width="80%" alt=""/>
 <br />
 <br />
-<img src="https://imgur.com/MIt5ZVd.png" height="80%" width="80%" alt=""/>
+<img src="https://github.com/alibashir7/ProtonVPN/assets/165006117/107dc461-e77a-4740-b2b6-39aab8cd86eb" width="80%" alt=""/>
 <br />
 <br />
-<img src="https://imgur.com/H3AlcVC.png" height="80%" width="80%" alt=""/>
-<br />
-<br />
-<img src="https://imgur.com/A7SnscC.png" height="80%" width="80%" alt=""/>
+<img src="https://github.com/alibashir7/ProtonVPN/assets/165006117/d2977a6c-5ae5-4a49-a59f-894caafcc034" width="80%" alt=""/>
 <br />
 <br />
 Now that we have signed up for an account, I will go back to the VM and search for https://protonvpn.com/download in the Edge browser. Click on the download link in the middle of the page and follow the prompts to download the application in your browser. Once again, if you're confused about how to download the actual application, you can refer to the YouTube video I linked above. 
-<img src="https://imgur.com/fWJ461q.png" height="80%" width="80%" alt=""/>
+<img src="https://github.com/alibashir7/ProtonVPN/assets/165006117/a6df44bf-8a5d-4a2b-88b4-3c177dfac92f" height="80%" width="80%" alt=""/>
 <br />
 <br />
 Finally, we will sign into the application with the username and password we created for our account. Once you go through the verification screen, you will be brought into the Proton VPN interface. We will click on Quick Connect in the top left corner of the application. Once connected, you will see that the location has changed to Poland and you have been assigned a new IP address. To confirm this change was made, we will go back to https://whatismyipaddress.com/. 
-<img src="https://imgur.com/6GB9NkW.png" height="80%" width="80%" alt=""/>
+<img src="https://github.com/alibashir7/ProtonVPN/assets/165006117/90e7eea6-962d-40ce-b404-09f7af756474" height="80%" width="80%" alt=""/>
 <br />
 <br />
-<img src="https://imgur.com/HtDJre2.png" height="80%" width="80%" alt=""/>
+<img src="https://github.com/alibashir7/ProtonVPN/assets/165006117/18fd4af0-7aff-4886-b0d8-c86ac6ec8ecf" height="80%" width="80%" alt=""/>
 <br />
 <br />
-<img src="https://imgur.com/zQAWtLy.png" height="80%" width="80%" alt=""/>
+<img src="https://github.com/alibashir7/ProtonVPN/assets/165006117/c1f0a910-5dd8-4baa-9f84-ec97e81e2c80" height="80%" width="80%" alt=""/>
 <br />
 <br />
-<img src="https://imgur.com/dtGJYu3.png" height="80%" width="80%" alt=""/>
+<img src="https://github.com/alibashir7/ProtonVPN/assets/165006117/f7cb9632-b114-4586-b1ed-e3d88edfe68f" height="80%" width="80%" alt=""/>
 <br />
 <br />
 As you can see, the location and IP address have indeed changed to the same one our VPN connected to and assigned us to. 
 To test out the change, we will go to Google.com and Netflix.com. You can see how the language and region have changed. Our VM is in Poland, even though it's actually in the UK. So whatever we do in the web browser at this point will route the traffic through Poland servers. 
-<img src="https://imgur.com/eZBxea2.png" height="80%" width="80%" alt=""/>
+<img src="https://github.com/alibashir7/ProtonVPN/assets/165006117/cea696f7-ab91-4655-ad09-7d5dbbc36530" height="80%" width="80%" alt=""/>
 <br />
 <br />
-<img src="https://imgur.com/wtHz5qP.png" height="80%" width="80%" alt=""/>
+<img src="https://github.com/alibashir7/ProtonVPN/assets/165006117/37ab423f-a201-453e-910e-56799b95fdb0" height="80%" width="80%" alt=""/>
 <br />
 <br />
 Make note of how our IP address and location have changed through the different processes. 
-<img src="https://imgur.com/orrGYMn.png" height="80%" width="80%" alt=""/>
+<img src="https://github.com/alibashir7/ProtonVPN/assets/165006117/3a0aef76-16d2-4b8d-925f-4f2b739023d0" height="80%" width="80%" alt=""/>
 <br />
 <br />
 <h2>Conclusion </h2>
