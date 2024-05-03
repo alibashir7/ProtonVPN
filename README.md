@@ -12,8 +12,8 @@ In this lab, we will learn what VPNs are and what they are used for. I'll show y
 In your web browser go to the following website: https://https://whatismyipaddress.com/  <br/>
 <p align="center">
 Open your Notepad application and take note of the IP address and location your computer is located at. <br/>
-<img src="https://imgur.com/fKGjvpI.png" height="80%" width="80%" alt=""/>
-<br/>
+![1](https://github.com/alibashir7/ProtonVPN/assets/165006117/14feb7fc-1b01-49ad-a965-10a903ec8804)
+
   
 <h2>Creating Windows 10 VM in Azure:</h2>
 
