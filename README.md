@@ -38,20 +38,20 @@ The first thing we will do is create a Windows 10 VM in Azure. Follow the follow
 <br />
 <br />
 Next, we will open our VM using a remote desktop connection. Use the public IP address given by the VM to connect. Once the connection is established, make sure to select more choices and enter the username and password of the VM we created. When the security warning pops up, just click yes. Follow the same process I do in the images below and once your in the Windows 10 VM interface open edge and go the https://https://whatismyipaddress.com/ website. <br/>
-<img src="https://imgur.com/9rEAN90.png" height="80%" width="80%" alt=""/>
+<img src="https://github.com/alibashir7/ProtonVPN/assets/165006117/3763ebd0-6c20-43dd-8feb-dacdc300362a" width="80%" alt=""/>
 <br />
 <br />
-<img src="https://imgur.com/Ca0d78R.png" height="80%" width="80%" alt=""/>
+<img src="https://github.com/alibashir7/ProtonVPN/assets/165006117/283cc652-e339-4e22-a37e-309217eef9f9" width="80%" alt=""/>
 <br />
 <br />
-<img src="https://imgur.com/pnoOjlS.png" height="80%" width="80%" alt=""/>
+<img src="https://github.com/alibashir7/ProtonVPN/assets/165006117/1aff81d2-2990-4b78-97d7-e1b6c0191baf" width="80%" alt=""/>
 <br />
 <br />
-<img src="https://imgur.com/tOtk1l3.png" height="80%" width="80%" alt=""/>
+<img src="https://github.com/alibashir7/ProtonVPN/assets/165006117/05896e90-47a0-4462-bdbb-782e98d855f4" width="80%" alt=""/>
 <br />
 <br />
 Take note of the IP address and location our VM is located in. <br/>
-<img src="https://imgur.com/hTr9vqc.png" height="80%" width="80%" alt=""/>
+<img src="https://github.com/alibashir7/ProtonVPN/assets/165006117/074c936e-1ac8-4801-a393-5115d605209a" alt=""/>
 <br />
 <br />
 
