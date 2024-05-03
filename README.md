@@ -12,9 +12,10 @@ In this lab, we will learn what VPNs are and what they are used for. I'll show y
 In your web browser go to the following website: https://https://whatismyipaddress.com/  <br/>
 <p align="center">
 Open your Notepad application and take note of the IP address and location your computer is located at. <br/>
-![1](https://github.com/alibashir7/ProtonVPN/assets/165006117/14feb7fc-1b01-49ad-a965-10a903ec8804)
+<img src="https://github.com/alibashir7/ProtonVPN/assets/165006117/14feb7fc-1b01-49ad-a965-10a903ec8804" width="80%" alt=/>
+<br />
+<br />
 
-  
 <h2>Creating Windows 10 VM in Azure:</h2>
 
 The first thing we will do is create a Windows 10 VM in Azure. Follow the following images below and create an exact replica VM. Don't create a resource group; we will let the VM create its own resource group. If you don't have Europe available as a region, you can select another country; just make sure it has the same configurations as shown in the image. Don't forget to create a username and password for accessing the VM. Make sure to save it somewhere. When the deployment process is done, go to the resource. <br/>
